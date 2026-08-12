@@ -1,0 +1,16 @@
+credential_name,industry,description_type,original_skill_count,enhanced_skill_count,original_knowledge_count,enhanced_knowledge_count,original_task_count,enhanced_task_count
+Medical Coding Certificate,Health,outcomes,7,9,6,14,11,13
+Practical Nursing Diploma,Health,outcomes,6,10,4,9,7,9
+CNA Certification,Health,course,9,19,6,11,6,2
+Full Stack Web Development,Technology,course,7,13,6,9,5,7
+Network Support Associate,Technology,outcomes,4,6,4,8,7,10
+AWS Cloud Practitioner Prep,Technology,course,9,19,7,10,11,16
+HVAC Technician Certificate,Trade,course,4,8,4,6,9,11
+Electrical Apprenticeship,Trade,outcomes,7,11,2,4,8,9
+Welding Technology Certificate,Trade,course,5,10,5,7,8,11
+General Business Administration,Business,outcomes,6,8,7,17,5,6
+Project Management Fundamentals,Business,course,9,18,7,9,6,9
+Liberal Arts Associate Degree,Liberal Arts,outcomes,7,12,3,7,6,8
+General Arts Certificate,Liberal Arts,course,9,20,5,9,5,7
+Early Childhood Education Cert.,Education,outcomes,8,11,3,7,5,6
+Culinary Arts Certificate,Trade,course,8,18,2,3,5,6
