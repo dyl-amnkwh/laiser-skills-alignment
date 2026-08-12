@@ -21,7 +21,7 @@ Job posting text ──┘
 1. **Extraction** — ran credential descriptions and job/occupation descriptions through LAiSER, which uses an LLM to pull structured skills, knowledge, and task statements out of unstructured text.
 2. **Evaluation** — Observing what factors impact different extraction. 
 3. **Comparison** — Tested the alignment betwen skills/knowledge/tasks for an individual students job outcomes as compared to their credentials.
-## What was actialy built
+## What was actually built
 This wasn't just "run the tool" — most of the technical work was in diagnosing and controlling model behavior:
 
 - **Prompt engineering**: modified default extraction prompts to control how many skills/knowledge/task items the model returned per document, after finding the defaults were silently capping output.
